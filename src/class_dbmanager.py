@@ -152,9 +152,12 @@ class DBManager:
                 return cur.fetchall()
 
     def get_avg_salary(self) -> Dict[str, float]:
+        # --- ИСПРАВЛЕНИЕ ---
         query = """
-            SELECT AVG((salary_from + salary_to) / 2.0) AS avg_salary FROM vacancies;
+            SELECT AVG(COALESCE(salary_from, 0) + COALESCE(salary_to, 0)) / 2.0 AS avg_salary 
+            FROM vacancies;
         """
+        # --- КОНЕЦ ИСПРАВЛЕНИЯ ---
         with self._get_connection() as conn:
             with conn.cursor(cursor_factory=DictCursor) as cur:
                 cur.execute(query)
