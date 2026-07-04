@@ -1,0 +1,1108 @@
+{
+  "items": [
+    {
+      "id": "10000000",
+      "name": "ML инженер",
+      "area": {
+        "id": "23",
+        "name": "Екатеринбург"
+      },
+      "salary": {
+        "from": 100307,
+        "to": 237024,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-20T02:21:46.356668",
+      "created_at": "2026-04-07T02:21:46.356682",
+      "archived": false,
+      "employer": {
+        "id": "1002",
+        "name": "Yandex",
+        "alternate_url": "https://hh.ru/employer/1002",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000000",
+      "experience": {
+        "id": "noExperience",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000001",
+      "name": "Python разработчик",
+      "area": {
+        "id": "87",
+        "name": "Новосибирск"
+      },
+      "salary": {
+        "from": 123188,
+        "to": 312644,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-12T02:21:46.356710",
+      "created_at": "2026-04-02T02:21:46.356714",
+      "archived": false,
+      "employer": {
+        "id": "1001",
+        "name": "Ozon Tech",
+        "alternate_url": "https://hh.ru/employer/1001",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000001",
+      "experience": {
+        "id": "noExperience",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000002",
+      "name": "Python разработчик",
+      "area": {
+        "id": "8",
+        "name": "Санкт-Петербург"
+      },
+      "salary": {
+        "from": 145410,
+        "to": 397162,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-20T02:21:46.356724",
+      "created_at": "2026-04-05T02:21:46.356727",
+      "archived": false,
+      "employer": {
+        "id": "1005",
+        "name": "Sber",
+        "alternate_url": "https://hh.ru/employer/1005",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000002",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000003",
+      "name": "Data Engineer",
+      "area": {
+        "id": "76",
+        "name": "Санкт-Петербург"
+      },
+      "salary": {
+        "from": 194125,
+        "to": 256468,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-20T02:21:46.356735",
+      "created_at": "2026-04-04T02:21:46.356737",
+      "archived": false,
+      "employer": {
+        "id": "1002",
+        "name": "Yandex",
+        "alternate_url": "https://hh.ru/employer/1002",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000003",
+      "experience": {
+        "id": "between1And3",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "office",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000004",
+      "name": "Python разработчик",
+      "area": {
+        "id": "83",
+        "name": "Казань"
+      },
+      "salary": {
+        "from": 186403,
+        "to": 308172,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-22T02:21:46.356746",
+      "created_at": "2026-04-10T02:21:46.356750",
+      "archived": false,
+      "employer": {
+        "id": "1005",
+        "name": "Sber",
+        "alternate_url": "https://hh.ru/employer/1005",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000004",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000005",
+      "name": "Python разработчик",
+      "area": {
+        "id": "58",
+        "name": "Москва"
+      },
+      "salary": {
+        "from": 188976,
+        "to": 215637,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-21T02:21:46.356767",
+      "created_at": "2026-04-02T02:21:46.356772",
+      "archived": false,
+      "employer": {
+        "id": "1002",
+        "name": "Yandex",
+        "alternate_url": "https://hh.ru/employer/1002",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000005",
+      "experience": {
+        "id": "moreThan6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "office",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000006",
+      "name": "Python разработчик",
+      "area": {
+        "id": "86",
+        "name": "Новосибирск"
+      },
+      "salary": {
+        "from": 190527,
+        "to": 262644,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-19T02:21:46.356784",
+      "created_at": "2026-04-03T02:21:46.356786",
+      "archived": false,
+      "employer": {
+        "id": "1005",
+        "name": "Sber",
+        "alternate_url": "https://hh.ru/employer/1005",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000006",
+      "experience": {
+        "id": "moreThan6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "office",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000007",
+      "name": "Python разработчик",
+      "area": {
+        "id": "41",
+        "name": "Москва"
+      },
+      "salary": {
+        "from": 176092,
+        "to": 355364,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-21T02:21:46.356797",
+      "created_at": "2026-04-10T02:21:46.356801",
+      "archived": false,
+      "employer": {
+        "id": "1004",
+        "name": "Tinkoff",
+        "alternate_url": "https://hh.ru/employer/1004",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000007",
+      "experience": {
+        "id": "moreThan6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000008",
+      "name": "Python разработчик",
+      "area": {
+        "id": "19",
+        "name": "Санкт-Петербург"
+      },
+      "salary": {
+        "from": 160113,
+        "to": 383316,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-18T02:21:46.356810",
+      "created_at": "2026-04-02T02:21:46.356813",
+      "archived": false,
+      "employer": {
+        "id": "1001",
+        "name": "Ozon Tech",
+        "alternate_url": "https://hh.ru/employer/1001",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000008",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000009",
+      "name": "Data Engineer",
+      "area": {
+        "id": "35",
+        "name": "Екатеринбург"
+      },
+      "salary": {
+        "from": 137142,
+        "to": 348015,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-19T02:21:46.356821",
+      "created_at": "2026-04-03T02:21:46.356823",
+      "archived": false,
+      "employer": {
+        "id": "1004",
+        "name": "Tinkoff",
+        "alternate_url": "https://hh.ru/employer/1004",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000009",
+      "experience": {
+        "id": "moreThan6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000010",
+      "name": "Backend инженер",
+      "area": {
+        "id": "34",
+        "name": "Казань"
+      },
+      "salary": {
+        "from": 167943,
+        "to": 303641,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-17T02:21:46.356831",
+      "created_at": "2026-04-10T02:21:46.356835",
+      "archived": false,
+      "employer": {
+        "id": "1005",
+        "name": "Sber",
+        "alternate_url": "https://hh.ru/employer/1005",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000010",
+      "experience": {
+        "id": "between1And3",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000011",
+      "name": "Python разработчик",
+      "area": {
+        "id": "75",
+        "name": "Казань"
+      },
+      "salary": {
+        "from": 189079,
+        "to": 397664,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-13T02:21:46.356842",
+      "created_at": "2026-04-07T02:21:46.356845",
+      "archived": false,
+      "employer": {
+        "id": "1003",
+        "name": "VK",
+        "alternate_url": "https://hh.ru/employer/1003",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000011",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000012",
+      "name": "ML инженер",
+      "area": {
+        "id": "49",
+        "name": "Екатеринбург"
+      },
+      "salary": {
+        "from": 102559,
+        "to": 359502,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-15T02:21:46.356852",
+      "created_at": "2026-04-05T02:21:46.356854",
+      "archived": false,
+      "employer": {
+        "id": "1003",
+        "name": "VK",
+        "alternate_url": "https://hh.ru/employer/1003",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000012",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000013",
+      "name": "Python разработчик",
+      "area": {
+        "id": "7",
+        "name": "Казань"
+      },
+      "salary": {
+        "from": 186460,
+        "to": 208218,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-12T02:21:46.356860",
+      "created_at": "2026-04-09T02:21:46.356862",
+      "archived": false,
+      "employer": {
+        "id": "1003",
+        "name": "VK",
+        "alternate_url": "https://hh.ru/employer/1003",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000013",
+      "experience": {
+        "id": "between1And3",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000014",
+      "name": "Backend инженер",
+      "area": {
+        "id": "12",
+        "name": "Новосибирск"
+      },
+      "salary": {
+        "from": 152327,
+        "to": 266907,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-17T02:21:46.356868",
+      "created_at": "2026-04-10T02:21:46.356870",
+      "archived": false,
+      "employer": {
+        "id": "1004",
+        "name": "Tinkoff",
+        "alternate_url": "https://hh.ru/employer/1004",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000014",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "office",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000015",
+      "name": "ML инженер",
+      "area": {
+        "id": "55",
+        "name": "Москва"
+      },
+      "salary": {
+        "from": 103688,
+        "to": 284925,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-16T02:21:46.356926",
+      "created_at": "2026-04-05T02:21:46.356929",
+      "archived": false,
+      "employer": {
+        "id": "1004",
+        "name": "Tinkoff",
+        "alternate_url": "https://hh.ru/employer/1004",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000015",
+      "experience": {
+        "id": "noExperience",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000016",
+      "name": "ML инженер",
+      "area": {
+        "id": "52",
+        "name": "Москва"
+      },
+      "salary": {
+        "from": 183481,
+        "to": 344146,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-19T02:21:46.356936",
+      "created_at": "2026-04-03T02:21:46.356938",
+      "archived": false,
+      "employer": {
+        "id": "1002",
+        "name": "Yandex",
+        "alternate_url": "https://hh.ru/employer/1002",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000016",
+      "experience": {
+        "id": "between1And3",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000017",
+      "name": "Python разработчик",
+      "area": {
+        "id": "95",
+        "name": "Екатеринбург"
+      },
+      "salary": {
+        "from": 145478,
+        "to": 223063,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-14T02:21:46.356945",
+      "created_at": "2026-04-03T02:21:46.356948",
+      "archived": false,
+      "employer": {
+        "id": "1001",
+        "name": "Ozon Tech",
+        "alternate_url": "https://hh.ru/employer/1001",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000017",
+      "experience": {
+        "id": "moreThan6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000018",
+      "name": "Python разработчик",
+      "area": {
+        "id": "84",
+        "name": "Новосибирск"
+      },
+      "salary": {
+        "from": 150259,
+        "to": 246410,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-16T02:21:46.356954",
+      "created_at": "2026-04-11T02:21:46.356956",
+      "archived": false,
+      "employer": {
+        "id": "1001",
+        "name": "Ozon Tech",
+        "alternate_url": "https://hh.ru/employer/1001",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000018",
+      "experience": {
+        "id": "noExperience",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000019",
+      "name": "Data Engineer",
+      "area": {
+        "id": "21",
+        "name": "Санкт-Петербург"
+      },
+      "salary": {
+        "from": 110245,
+        "to": 397940,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-20T02:21:46.356963",
+      "created_at": "2026-04-03T02:21:46.356965",
+      "archived": false,
+      "employer": {
+        "id": "1003",
+        "name": "VK",
+        "alternate_url": "https://hh.ru/employer/1003",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000019",
+      "experience": {
+        "id": "moreThan6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "office",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000020",
+      "name": "Python разработчик",
+      "area": {
+        "id": "33",
+        "name": "Новосибирск"
+      },
+      "salary": {
+        "from": 144380,
+        "to": 208989,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-16T02:21:46.356971",
+      "created_at": "2026-04-08T02:21:46.356973",
+      "archived": false,
+      "employer": {
+        "id": "1003",
+        "name": "VK",
+        "alternate_url": "https://hh.ru/employer/1003",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000020",
+      "experience": {
+        "id": "moreThan6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000021",
+      "name": "Backend инженер",
+      "area": {
+        "id": "62",
+        "name": "Новосибирск"
+      },
+      "salary": {
+        "from": 116542,
+        "to": 339685,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-13T02:21:46.356979",
+      "created_at": "2026-04-12T02:21:46.356981",
+      "archived": false,
+      "employer": {
+        "id": "1004",
+        "name": "Tinkoff",
+        "alternate_url": "https://hh.ru/employer/1004",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000021",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "office",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000022",
+      "name": "Backend инженер",
+      "area": {
+        "id": "58",
+        "name": "Екатеринбург"
+      },
+      "salary": {
+        "from": 152007,
+        "to": 297880,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-21T02:21:46.356988",
+      "created_at": "2026-04-06T02:21:46.356990",
+      "archived": false,
+      "employer": {
+        "id": "1001",
+        "name": "Ozon Tech",
+        "alternate_url": "https://hh.ru/employer/1001",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000022",
+      "experience": {
+        "id": "between1And3",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000023",
+      "name": "ML инженер",
+      "area": {
+        "id": "8",
+        "name": "Санкт-Петербург"
+      },
+      "salary": {
+        "from": 126320,
+        "to": 276015,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-17T02:21:46.357001",
+      "created_at": "2026-04-11T02:21:46.357003",
+      "archived": false,
+      "employer": {
+        "id": "1004",
+        "name": "Tinkoff",
+        "alternate_url": "https://hh.ru/employer/1004",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000023",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "hybrid",
+        "name": "Формат работы"
+      }
+    },
+    {
+      "id": "10000024",
+      "name": "Python разработчик",
+      "area": {
+        "id": "49",
+        "name": "Екатеринбург"
+      },
+      "salary": {
+        "from": 103786,
+        "to": 365522,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "published_at": "2026-04-20T02:21:46.357010",
+      "created_at": "2026-04-03T02:21:46.357012",
+      "archived": false,
+      "employer": {
+        "id": "1005",
+        "name": "Sber",
+        "alternate_url": "https://hh.ru/employer/1005",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт с Python, SQL, API",
+        "responsibility": "Разработка backend сервисов"
+      },
+      "alternate_url": "https://hh.ru/vacancy/10000024",
+      "experience": {
+        "id": "between3And6",
+        "name": "Опыт работы"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "schedule": {
+        "id": "office",
+        "name": "Формат работы"
+      }
+    }
+  ],
+  "found": 25,
+  "pages": 1,
+  "page": 0,
+  "per_page": 25
+}
